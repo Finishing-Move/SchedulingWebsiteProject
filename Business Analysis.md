@@ -40,10 +40,14 @@
 ## 6.1 Preliminary acquisition concept
 
 ## 6.2 Preliminary deployment concept
+Prototypes for the website shall be provided with the client for demonstration to see if the client approves of the current model and if not, make note of any changes needed.
+
+The solution system shall be delivered by introducing customers to the product and suggesting them to use it.
 
 ## 6.3 Preliminary support concept
 
 ## 6.4 Preliminary retirement concept
+This solution, once down with it's lifespan, shall be retired by upgrading to a better service or replacing it with a better solution. The operation should stop using the website and redirect customers to the new service. The retired website should have an announcement about when the website shall be retired.
 
 # 7. Project Constraints
 
